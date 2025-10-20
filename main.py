@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.title("Yağmur Yılmaz")
+
 bordro=st.checkbox("Bordro")
 gelir=st.number_input("Brüt Yıllık Gelirinizi Giriniz")
 
